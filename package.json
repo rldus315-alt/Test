@@ -1,0 +1,7 @@
+{
+  "name": "japanese-quiz",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p public && cp index.html styles.css app.js vocabulary.js public/"
+  }
+}
